@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Kotlin Training
 
-You can use the [editor on GitHub](https://github.com/ymnder/KotlinTraining/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Basic Syntax
+### 変数の定義
+valとvar
+Null Safety
+cast
+### 型
+### スコープ関数
+## Kotlin Coroutine
+## DSL
+## Android KTX
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Referrence
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ymnder/KotlinTraining/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Kotlin Getting Started](https://kotlinlang.org/docs/reference/basic-syntax.html)
+* [Kotlin 入門までの助走読本](https://drive.google.com/file/d/0Bylpznm149-gTGRjOFRkWm9PODg/view)
+* [Taking Advantage of Kotlin](https://codelabs.developers.google.com/codelabs/taking-advantage-of-kotlin/#0)
+* [Introduction to Kotlin (Google I/O '17)](https://www.youtube.com/watch?v=X1RVYt2QKQE&vl=ja)
+* [はじめてのKotlinハンズオン](https://speakerdeck.com/ntaro/hazimetefalsekotlinhanzuon-number-droidkaigi)
+* [Kotlinスタートブック](https://www.amazon.co.jp/Kotlin%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF-%E6%96%B0%E3%81%97%E3%81%84Android%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%95%B7%E6%BE%A4-%E5%A4%AA%E9%83%8E/dp/4865940391)
+* [Kotlinイン・アクション](https://www.amazon.co.jp/Kotlin%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-Dmitry-Jemerov/dp/4839961743)
+* [Androidアプリ開発のためのKotlin実践プログラミング](https://www.amazon.co.jp/exec/obidos/ASIN/479805366X/numa08blog01-22/)
